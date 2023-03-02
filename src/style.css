@@ -1,0 +1,29 @@
+* {
+  color: #e5e9f0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  background: #3b4252;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 1.1em;
+}
+
+hr {
+  border-color: #5e81ac;
+  color: #5e81ac;
+}
+
+li {
+  margin-bottom: 0.4em;
+}
+
+a {
+  color: #a3be8c;
+}
+
+#welcome-to-the-nixnixos-israel-user-group {
+  text-align: center;
+  width: 100%;
+}
