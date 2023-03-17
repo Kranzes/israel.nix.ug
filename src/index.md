@@ -10,8 +10,7 @@ We believe that by bringing together individuals who are passionate about NixOS 
 
 ### Useful information
 
-- Location: TBD (Probably in Tel Aviv, Israel)
-- Schedule: TBD
+- Location & schedule: No fixed location and schedule (Either contact one of the organizers or join the Matrix group chat listed below)
 - Group chat (on Matrix): [nix-israel:matrix.org](https://matrix.to/#/#nix-israel:matrix.org)
 - Organizers' contact information:
   * Ilan Joselevich
