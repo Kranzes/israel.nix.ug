@@ -10,7 +10,7 @@ We believe that by bringing together individuals who are passionate about NixOS 
 
 ### Useful information
 
-- Location & schedule: No fixed location and schedule (Either contact one of the organizers or join the Matrix group chat listed below)
+- Location and date for upcoming meetup: 12th of July 2023 Wednesday 17:00-20:00 @ Hetz Ventures in Sarona TLV (For updates contact one of the organizers or join the Matrix chat room below.)
 - Group chat (on Matrix): [nix-israel:matrix.org](https://matrix.to/#/#nix-israel:matrix.org)
 - Organizers' contact information:
   * Ilan Joselevich

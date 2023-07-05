@@ -1,5 +1,5 @@
 {
-  hercules-ci.netlify-deploy."israel.nix.ug" = {
+  hercules-ci.netlify-deploy."israel-nix-ug" = {
     content = { config, ... }: config.packages.default;
     productionDeployment = { branch, ... }: (branch == "master");
     secretName = "netlify";
