@@ -1,11 +1,9 @@
-{ inputs, ... }:
-
 {
   perSystem = { pkgs, ... }: {
     packages.default = pkgs.stdenvNoCC.mkDerivation {
       name = "nix-israel-website";
 
-      src = (inputs.self + "/src");
+      src = ../src;
 
       nativeBuildInputs = [
         pkgs.pandoc

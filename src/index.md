@@ -10,10 +10,16 @@ We believe that by bringing together individuals who are passionate about NixOS 
 
 ### Useful information
 
-- Location and date for upcoming meetup: TBA
+- Events
+    - Upcoming
+        - None
+    - Previous
+        - 2023-08-28
+        - 2023-07-12
+        - 2023-03-19
 - Group chat (on Matrix): [nix-israel:matrix.org](https://matrix.to/#/#nix-israel:matrix.org)
 - Organizers' contact information:
-  * Ilan Joselevich
-    - [Email](mailto:personal@ilanjoselevich.com)
-    - [Matrix](https://matrix.to/#/@kranzes:matrix.org)
-    - [GitHub](https://github.com/Kranzes)
+    - Ilan Joselevich
+        - [Email](mailto:personal@ilanjoselevich.com)
+        - [Matrix](https://matrix.to/#/@kranzes:matrix.org)
+        - [GitHub](https://github.com/Kranzes)
